@@ -6,7 +6,7 @@ This ESP is a final assessment at Vanier College. It concerns two different cour
 ## Installation
 Once GitHub is installed on your computer, in your Command Prompt (Cmd) type:
 
-git clone https://github.com/2Talmaci/Quarter-Car-Suspension-System.git
+`git clone https://github.com/2Talmaci/Quarter-Car-Suspension-System.git`
 
 Or, you can clone and download the zip file from the above option. 
 
@@ -15,6 +15,3 @@ The animation and the code can be modified by simply changing the parameters of 
 
 ![Image](Pictures/Code.PNG)
 
-![Image](Pictures/Graph 1.PNG)
-
-![Image](Pictures/Gamma 1.PNG)
