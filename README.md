@@ -15,6 +15,6 @@ The animation and the code can be modified by simply changing the parameters of 
 
 ![Image](Pictures/Code.PNG)
 
-![Image](Pictures/Gamma 1.PNG)
-
 ![Image](Pictures/Graph 1.PNG)
+
+![Image](Pictures/Gamma 1.PNG)
