@@ -12,4 +12,6 @@ Or, you can clone and download the zip file from the above option.
 
 ## Modifications
 The animation and the code can be modified by simply changing the parameters of the system such as the spring lengths, the masses, the spring constants and the dampening coefficient. The initial conditions and the functions (differential equations) defining the system can also be varied for other purposes. 
-![Image](Code.PNG)
+
+![Image](Pictures/Code.PNG)
+
